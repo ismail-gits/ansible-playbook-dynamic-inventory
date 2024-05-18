@@ -1,4 +1,4 @@
-# Ansible Playbook with Dynamic Inventory for Terraform-managed EC2 Instances
+# Ansible Playbook with Dynamic Inventory
 
 This repository contains an Ansible playbook and associated configurations for deploying Docker containers on EC2 instances provisioned using Terraform.
 
